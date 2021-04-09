@@ -22,26 +22,22 @@
 > :rocket: Move It is a pomodoro application to help people to make more exercises. Next Level Week #04 #NLW @Rocketseat
 
 <p align="center">
+ <a href="#about">About</a> •
+ <a href="#deploy">Deploy</a> •
+ <a href="#features-">Features</a> • 
+ <a href="#technologies-">Technologies</a> • 
+ <a href="#how-to-run-ℹ%EF%B8%8F">How to run</a> • 
+ <a href="#issues-">Issues?</a> • 
+ <a href="#contributing-">Contributing</a> • 
+ <a href="#license-">License</a> • 
+ <a href="#author-">Author</a>
+</p>
+
+<p align="center">
     <a href="README.md">English</a>
     ·
     <a href="README-pt.md">Portuguese</a>
  </p>
-
-<div align="center">
-  <sub>The NLW #4 project. Built with ❤︎ by
-    <a href="https://github.com/igor-cotrim">Igor Cotrim</a>
-  </sub>
-</div>
-
-# :pushpin: Table of Contents
-
-* [Demo Website](#eyes-demo-website)     
-* [Technologies](#computer-technologies)
-* [Features](#rocket-features)
-* [How to Run](#construction_worker-how-to-run)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
 
 <h2 align="left"> 📥 Layout available for download at: </h2>
 <p align="center">
@@ -51,14 +47,29 @@
 </p>
 
 <div>
-   <a href="./.github/screenshot-1.png" width="400px"></a>
+   <a href="./.github/screenshot-1.png" width="400px">
    <img src="https://user-images.githubusercontent.com/50390408/114178616-5a669500-9914-11eb-9d25-92a9d261fac8.png" width="400px">
+   <img src="https://user-images.githubusercontent.com/50390408/114184946-833e5880-991b-11eb-9932-83cb522374b0.png" width="400px">
+   </a>
 </div>
 
-# :eyes: Demo Website
-👉  demo: https://moveit-umber-eta.vercel.app
+## 💻 About
 
-# :computer: Technologies
+Move-it - is a pomodoro application for people who want to focus and want to exercise.
+
+Project developed during NLW - Next Level Week offered by Rocketseat. NLW is an online experience with a lot of practical content,
+challenges and hacks where the content is available for a week.
+
+## :eyes: Deploy
+👉  Deploy: https://moveit-umber-eta.vercel.app
+
+
+## :rocket: Features
+
+* Pomodoro timer.
+* Help to get up of chair and make some exercise.
+
+## :computer: Technologies
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
@@ -66,12 +77,7 @@ This project was made using the follow technologies:
 * [Next.js](https://nextjs.org/)      
      
 
-# :rocket: Features
-
-* Pomodoro timer.
-* Help to get up of chair and make some exercise.
-
-# :construction_worker: How to run
+## :construction_worker: How to run
 ```bash
 # Clone Repository
 $ git clone https://github.com/igor-cotrim/move-it.git
@@ -92,11 +98,11 @@ $ yarn dev
 Go to http://localhost:3000/ to see the result.
 
 
-# :bug: Issues
+## :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Move.it](https://github.com/igor-cotrim/move-it/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Move-it](https://github.com/igor-cotrim/move-it/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-# :tada: Contributing
+## :tada: Contributing
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
 Here's some tips:
@@ -104,12 +110,25 @@ Here's some tips:
 * Check the [issues page](https://github.com/igor-cotrim/move-it/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
 * Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
-# :closed_book: License
+## :closed_book: License
 
-Released in 2020 :closed_book: License
+Released in 2021 :closed_book: License
 
-Made with love by [Igor Cotrim](https://github.com/igor-cotrim) 🚀.
-This project is under the [MIT license](./LICENSE).
+
+## Author 🦸
+
+<a href="https://www.linkedin.com/in/igorcotrim/">
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Igor Cotrim</b></sub></a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin">😎</a>
+
+
+Made with ❤️ by Igor Cotrim 👋🏽 Get in touch!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
+[![Gmail Badge](https://img.shields.io/badge/-igorcotrim.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorcotrim.dev@gmail.com)](mailto:igorcotrim.dev@gmail.com)
+
+---
 
 
 Give a ⭐️ if this project helped you!
