@@ -22,14 +22,14 @@
 > :rocket: Move It is a pomodoro application to help people to make more exercises. Next Level Week #04 #NLW @Rocketseat
 
 <p align="center">
- <a href="#about">About</a> •
- <a href="#deploy">Deploy</a> •
- <a href="#features-">Features</a> • 
- <a href="#technologies-">Technologies</a> • 
- <a href="#how-to-run-ℹ%EF%B8%8F">How to run</a> • 
- <a href="#issues-">Issues?</a> • 
- <a href="#contributing-">Contributing</a> • 
- <a href="#license-">License</a> • 
+ <a href="#-about">About</a> •
+ <a href="#eyes-deploy">Deploy</a> •
+ <a href="#rocket-features">Features</a> • 
+ <a href="#computer-technologies">Technologies</a> • 
+ <a href="#construction_worker-how-to-run">How to run</a> • 
+ <a href="#bug-issues">Issues?</a> • 
+ <a href="#tada-contributing">Contributing</a> • 
+ <a href="#closed_book-license">License</a> • 
  <a href="#author-">Author</a>
 </p>
 
@@ -47,10 +47,10 @@
 </p>
 
 <div>
-   <a href="./.github/screenshot-1.png" width="400px">
-   <img src="https://user-images.githubusercontent.com/50390408/114178616-5a669500-9914-11eb-9d25-92a9d261fac8.png" width="400px">
-   <img src="https://user-images.githubusercontent.com/50390408/114184946-833e5880-991b-11eb-9932-83cb522374b0.png" width="400px">
-   </a>
+ 
+   <img src="https://user-images.githubusercontent.com/50390408/114178616-5a669500-9914-11eb-9d25-92a9d261fac8.png" width="450px" align="center">
+   <img src="https://user-images.githubusercontent.com/50390408/114184946-833e5880-991b-11eb-9932-83cb522374b0.png" width="450px" align="center">
+
 </div>
 
 ## 💻 About
@@ -112,10 +112,10 @@ Here's some tips:
 
 ## :closed_book: License
 
-Released in 2021 :closed_book: License
+This project is under license [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Author 🦸
+## 🦸 Author 
 
 <a href="https://www.linkedin.com/in/igorcotrim/">
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
