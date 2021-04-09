@@ -46,7 +46,7 @@
     </a>
 </p>
 
-<div>
+<div align="center">
  
    <img src="https://user-images.githubusercontent.com/50390408/114178616-5a669500-9914-11eb-9d25-92a9d261fac8.png" width="400px" align="center">
    <img src="https://user-images.githubusercontent.com/50390408/114184946-833e5880-991b-11eb-9932-83cb522374b0.png" width="400px" align="center">
