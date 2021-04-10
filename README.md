@@ -14,7 +14,7 @@
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
   <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/igor-cotrim/move-it?color=5863d2" />
-  <a href="https://github.com/igor-cotrim/move.it/stargazers">
+  <a href="https://github.com/igor-cotrim/move-it/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/igor-cotrim/move-it?color=5863d2&logo=github">
   </a>
 </p>
